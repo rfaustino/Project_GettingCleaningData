@@ -1,5 +1,5 @@
-Repo Project_GettingCleaningData
-===========================
+Introduction
+============
 
 This repository include the following files:
 - run_analysis.R: The R file with the code necessary to implement the projec and create a tidy data set;
