@@ -25,3 +25,5 @@ You should create one R script called run_analysis.R that does the following:
 - Appropriately labels the data set with descriptive variable names. 
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+
+All the explanations about the treatment made in run_analys.R are in the code book file **CodeBook.md**.
